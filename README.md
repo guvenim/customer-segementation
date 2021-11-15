@@ -20,6 +20,5 @@ For colab:
 !pip install -r requirements.txt
 
 # don't forget for the figures
-
 #pyoff.iplot(fig)
 fig.show(renderer="colab")
