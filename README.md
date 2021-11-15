@@ -1,4 +1,4 @@
-# customer-segementation
+# customer-segmentation
 Notebooks for customer segmentation
 
 Go to
