@@ -2,13 +2,17 @@
 Notebooks for customer segmentation
 
 Go to
-
 https://mybinder.org/
 
 then paste 
-
-https://github.com/guvenim/customer-segementation
+https://github.com/guvenim/customer-segmentation
 
 Or just launch
+https://mybinder.org/v2/gh/guvenim/customer-segmentation/HEAD
 
-https://mybinder.org/v2/gh/guvenim/customer-segementation/HEAD
+
+For colab:
+
+!git clone https://github.com/guvenim/customer-segmentation.git
+%cd customer-segmentation
+!pip install -r requirements.txt
