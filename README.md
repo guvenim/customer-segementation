@@ -14,5 +14,7 @@ https://mybinder.org/v2/gh/guvenim/customer-segmentation/HEAD
 For colab:
 
 !git clone https://github.com/guvenim/customer-segmentation.git
+
 %cd customer-segmentation
+
 !pip install -r requirements.txt
